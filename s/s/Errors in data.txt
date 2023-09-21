@@ -1,0 +1,5 @@
+1. Data redundancy
+2. Data Missing
+3. Invalid Data
+4. Data Mismatch
+5. Inconsistent Formatting

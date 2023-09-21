@@ -1,0 +1,77 @@
+ISO3,Countries and areas,Region,Sub-region,Income Group,Total,Rural (Residence),Urban (Residence),Poorest (Wealth quintile),Richest (Wealth quintile)
+DZA,Algeria,MENA,MENA,Upper middle income (UM),24%,9%,32%,1%,77%
+AGO,Angola,SSA,ESA,Lower middle income (LM),17%,2%,24%,0%,62%
+ARM,Armenia,ECA,EECA,Upper middle income (UM),81%,71%,88%,47%,99%
+BGD,Bangladesh,SA,SA,Lower middle income (LM),37%,33%,52%,9%,76%
+BRB,Barbados,LAC,LAC,High income (H),66%,61%,69%,10%,98%
+BEN,Benin,SSA,WCA,Low income (L),4%,1%,7%,0%,16%
+BOL,Bolivia,LAC,LAC,Lower middle income (LM),12%,4%,17%,0%,0%
+BIH,Bosnia and Herzegovina,ECA,EECA,Upper middle income (UM),59%,51%,76%,8%,96%
+BRA,Brazil,LAC,LAC,Upper middle income (UM),83%,51%,89%,84%,97%
+BGR,Bulgaria,ECA,EECA,Upper middle income (UM),76%,66%,81%,35%,97%
+BFA,Burkina Faso,SSA,WCA,Low income (L),1%,1%,4%,1%,5%
+CMR,Cameroon,SSA,WCA,Lower middle income (LM),5%,0%,10%,0%,24%
+CAF,Central African Republic,SSA,WCA,Low income (L),4%,1%,9%,0%,16%
+TCD,Chad,SSA,WCA,Low income (L),2%,1%,8%,0%,9%
+CHL,Chile,LAC,LAC,High income (H),86%,70%,89%,73%,99%
+CHN,China,EAP,EAP,Upper middle income (UM),57%,50%,91%,0%,90%
+COL,Colombia,LAC,LAC,Upper middle income (UM),36%,5%,48%,1%,98%
+CRI,Costa Rica,LAC,LAC,Upper middle income (UM),72%,61%,78%,46%,99%
+CIV,Ivory Coast,SSA,WCA,Lower middle income (LM),3%,1%,5%,0%,14%
+CUB,Cuba,LAC,LAC,Upper middle income (UM),4%,1%,6%,15%,0%
+COD,Democratic Republic of the Congo,SSA,WCA,Low income (L),1%,0%,2%,0%,3%
+DJI,Djibouti,SSA,ESA,Lower middle income (LM),6%,1%,11%,1%,32%
+DOM,Dominican Republic,LAC,LAC,Upper middle income (UM),24%,100%,29%,0%,77%
+EGY,Egypt,MENA,MENA,Lower middle income (LM),17%,9%,29%,100%,0%
+GMB,Gambia,SSA,WCA,Low income (L),65%,47%,75%,25%,94%
+    GEO,    Georgia,ECA,EECA,Upper middle income (UM),85%,72%,93%,51%,99%
+GHA,Ghana,SSA,WCA,Lower middle income (LM),17%,10%,26%,3%,51%
+GTM,Guatemala,LAC,LAC,Upper middle income (UM),9%,3%,18%,0%,45%
+GNB,Guinea-Bissau,SSA,WCA,Low income (L),2%,2%,4%,0%,5%
+HTI,Haiti,LAC,LAC,Low income (L),21%,11%,36%,0%,65%
+IND,India,SA,SA,Lower middle income (LM),9%,5%,17%,0%,36%
+IDN,Indonesia,EAP,EAP,Lower middle income (LM),19%,10%,26%,6%,45%
+IRQ,Iraq,MENA,MENA,Upper middle income (UM),49%,35%,56%,14%,84%
+JPN,Japan,EAP,EAP,High income (H),78%,83%,77%,62%,87%
+JOR,Jordan,MENA,MENA,Upper middle income (UM),38%,35%,38%,23%,72%
+KEN,Kenya,SSA,ESA,Lower middle income (LM),32%,0%,24%,0%,0%
+KIR,Kiribati,EAP,EAP,Lower middle income (LM),51%,33%,69%,14%,87%
+KGZ,Kyrgyzstan,ECA,EECA,Lower middle income (LM),74%,69%,83%,54%,91%
+LAO,Lao People's Democratic Republic,EAP,EAP,Lower middle income (LM),2%,1%,4%,0%,5%
+LSO,Lesotho,SSA,ESA,Lower middle income (LM),32%,22%,52%,6%,70%
+MDG,Madagascar,SSA,ESA,Low income (L),11%,6%,27%,0%,47%
+MDV,Maldives,SA,SA,Upper middle income (UM),70%,69%,72%,50%,93%
+MLI,Mali,SSA,WCA,Low income (L),5%,3%,14%,0%,23%
+MRT,Mauritania,SSA,WCA,Lower middle income (LM),3%,1%,6%,0%,11%
+MEX,Mexico,LAC,LAC,Upper middle income (UM),41%,11%,52%,0%,0%
+MNG,Mongolia,EAP,EAP,Lower middle income (LM),37%,13%,49%,2%,93%
+MNE,Montenegro,ECA,EECA,Upper middle income (UM),82%,74%,86%,49%,99%
+MAR,Morocco,MENA,MENA,Lower middle income (LM),18%,12%,23%,0%,0%
+NAM,Namibia,SSA,ESA,Upper middle income (UM),7%,1%,15%,0%,34%
+NPL,Nepal,SA,SA,Low income (L),47%,32%,55%,16%,88%
+PAK,Pakistan,SA,SA,Lower middle income (LM),9%,4%,19%,0%,46%
+PAN,Panama,LAC,LAC,High income (H),31%,10%,44%,4%,94%
+RUS,Russian Federation,ECA,EECA,Upper middle income (UM),89%,79%,94%,89%,100%
+LCA,Saint Lucia,LAC,LAC,Upper middle income (UM),48%,48%,44%,12%,0%
+STP,Sao Tome and Principe,SSA,WCA,Lower middle income (LM),44%,37%,48%,20%,75%
+SEN,Senegal,SSA,WCA,Lower middle income (LM),5%,2%,10%,1%,21%
+SRB,Serbia,ECA,EECA,Upper middle income (UM),94%,91%,97%,71%,100%
+SLE,Sierra Leone,SSA,WCA,Low income (L),13%,4%,25%,0%,39%
+SSD,South Sudan,SSA,ESA,Low income (L),0%,0%,1%,0%,2%
+LKA,Sri Lanka,SA,SA,Upper middle income (UM),70%,67%,86%,71%,99%
+SDN,Sudan,SSA,ESA,Lower middle income (LM),3%,1%,9%,0%,18%
+SUR,Suriname,LAC,LAC,Upper middle income (UM),50%,37%,57%,22%,93%
+TJK,Tajikistan,ECA,EECA,Low income (L),24%,20%,38%,6%,46%
+THA,Thailand,EAP,EAP,Upper middle income (UM),71%,67%,78%,47%,96%
+MKD,North Macedonia,ECA,EECA,Upper middle income (UM),92%,90%,93%,70%,100%
+TGO,Togo,SSA,WCA,Low income (L),23%,7%,49%,0%,78%
+TON,Tonga,EAP,EAP,Upper middle income (UM),91%,90%,94%,83%,95%
+TTO,Trinidad and Tobago,LAC,LAC,High income (H),44%,34%,52%,3%,96%
+TUN,Tunisia,MENA,MENA,Lower middle income (LM),39%,22%,47%,13%,83%
+TUR,Turkey,ECA,EECA,Upper middle income (UM),36%,14%,43%,2%,90%
+TKM,Turkmenistan,ECA,EECA,Upper middle income (UM),46%,37%,58%,32%,77%
+UGA,Uganda,SSA,ESA,Low income (L),0%,0%,2%,0%,2%
+UKR,Ukraine,ECA,EECA,Lower middle income (LM),71%,0%,71%,0%,0%
+UZB,Uzbekistan,ECA,EECA,Lower middle income (LM),19%,16%,29%,1%,69%
+ZMB,Zambia,SSA,ESA,Lower middle income (LM),6%,2%,13%,0%,28%
+ZWE,Zimbabwe,SSA,ESA,Lower middle income (LM),26%,18%,49%,4%,62%
